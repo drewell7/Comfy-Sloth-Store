@@ -13,7 +13,7 @@ const Hero = () => {
           comfort zone
         </h1>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti iure
-          quasi odit tenetur unde officiis repudiandae quod deserunt quia eum?</p>
+          quasi odit tenetur unde officiis repudiandae quod deserunt quia eum? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Est sit et, dolor ipsam deserunt enim quod pariatur recusandae voluptatum nostrum?</p>
         <Link to='/products' className='btn hero-btn'>
           shop now
         </Link>
