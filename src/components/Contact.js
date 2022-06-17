@@ -16,7 +16,7 @@ const Contact = () => {
             <input
               type="email"
               className="form-join"
-              placeholder="enter email"
+              placeholder=" enter email"
             />
             <button type='submit' className='submit-btn'>
               subscribe
