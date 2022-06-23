@@ -34,7 +34,7 @@ const AddToCart = ({ product }) => {
 
   return (
     <Wrapper>
-      <div ClassName='colors'>
+      <div className='colors'>
         <span> colors : </span>
         <div>
           {colors.map((color, index) => {
